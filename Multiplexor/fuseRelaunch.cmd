@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Matias/Documents/UNIVERSIDAD/Arquitectura de Computadores/Mux-2-1/Proyecto Mux/Multiplexor/tb_mux_isim_beh.exe" -prj "D:/Matias/Documents/UNIVERSIDAD/Arquitectura de Computadores/Mux-2-1/Proyecto Mux/Multiplexor/tb_mux_beh.prj" "work.tb_mux" 
